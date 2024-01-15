@@ -1,0 +1,16 @@
+.result {
+    background-color: #f6f8fa;
+    border: 1px solid #d1d5da;
+    padding: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
