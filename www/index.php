@@ -1,15 +1,15 @@
-<?php
+ <?php
 
-$connect = mysqli_connect(
-   'db',
-   'gerardo',
-   'password',
-   'php_docker'
-);
+// $connect = mysqli_connect(
+//    'db',
+//    'gerardo',
+//    'password',
+//    'php_docker'
+// );
 
-if (!$connect) {
-   die("Connection failed: " . mysqli_connect_error());
-}
+// if (!$connect) {
+   // die("Connection failed: " . mysqli_connect_error());
+// }
 
 //  $table_name = "test_table";
 
@@ -28,8 +28,8 @@ if (!$connect) {
 //     echo "Error: " . $query . "<br>" . mysqli_error($connect);
 //  }
 
-mysqli_close($connect);
-?>
+// mysqli_close($connect);
+ ?>
 
 <!DOCTYPE html>
 <html lang="es">
